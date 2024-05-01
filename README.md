@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sparshkandpal2" target="blank"><img src="https://img.shields.io/twitter/follow/sparshkandpal2?logo=twitter&style=for-the-badge" alt="sparshkandpal2" /></a> </p>
 
-- 🌱 I’m currently learning **Generative AI,Prompt Engineering, React Native**
+- 🌱 I’m currently learning **Generative AI Development,Prompt Engineering, Metaverse**
 
-- 💬 Ask me about **IOT, LPWAN**
+- 💬 Ask me about **ENTREPRENURSHIP, GENAI**
 
 - 📫 How to reach me **ksparsh443@gmail.com**
 
