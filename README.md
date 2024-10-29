@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sparsh Kandpal</h1>
 <h3 align="center">Passionate engineering undergrad with interests in IoT, app development, AI, and ML. Seeking innovative opportunities for growth.</h3>
 
-<img align="right" alt="Coding" width="470" src ="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
+<img align="right" alt="Coding" width="470" src ="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksparsh443&label=Profile%20views&color=0e75b6&style=flat" alt="ksparsh443" /> </p>
 
